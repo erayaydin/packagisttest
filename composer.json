@@ -1,0 +1,16 @@
+{
+    "name": "erayaydin/packagisttest",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Erayaydin\\Packagisttest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eray Aydın",
+            "email": "erayaydinn@protonmail.com"
+        }
+    ],
+    "require": {}
+}
